@@ -1,0 +1,9 @@
+*.log
+*.class
+*.iml
+*.idea
+node_modules
+target/classes
+target/generated-sources
+target/maven-archiver
+target/maven-status
